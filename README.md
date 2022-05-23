@@ -21,7 +21,7 @@ A simple example how to use the Python SDK with the pepper robot within a Flask 
 
 4. Run the development server:
   ```
-  $ python app.py
+  python app.py
   ```
 
 5. Navigate to [http://localhost:5000](http://localhost:5000)
